@@ -1,2 +1,2 @@
-# radioscope.privacy.policy
+# privacy.policy
 Privacy Policy
